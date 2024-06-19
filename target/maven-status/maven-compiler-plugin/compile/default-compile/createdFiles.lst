@@ -1,0 +1,4 @@
+es\davidrico\jakarta\ejb\modelos\Producto.class
+es\davidrico\jakarta\ejb\servicios\ServiceEjbLocal.class
+es\davidrico\jakarta\ejb\controladores\Servlet.class
+es\davidrico\jakarta\ejb\servicios\ServiceEjb.class
